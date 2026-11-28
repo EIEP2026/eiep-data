@@ -1,7 +1,151 @@
 {
- "generated_at": "2026-11-28T05:37:39.800933+00:00",
+ "generated_at": "2026-11-28T09:32:52.167972+00:00",
  "disclaimer": "Información extraída de fuentes oficiales públicas, con enlace al original. Los resúmenes e impactos son orientativos y no constituyen asesoramiento jurídico. La mención de un organismo no implica aval ni vinculación con él.",
  "updates": [
+  {
+   "id": "3face358-38ec-42a3-a15a-4325fc4c0453",
+   "source": "boe",
+   "country": "ES",
+   "category": "law",
+   "title": "Ley 14/2026, de 21 de octubre, de las Cámaras Oficiales de Comercio, Industria, Servicios y Navegación y del Consejo General de las Cámaras Oficiales de Comercio, Industria, Servicios y Navegación de Cataluña.",
+   "summary": "COMUNIDAD AUTÓNOMA DE CATALUÑA",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-25030",
+   "published_at": "2026-11-28",
+   "first_seen_at": null,
+   "impact": null,
+   "impact_summary": null,
+   "affected": null,
+   "urgency": null,
+   "topics": [],
+   "analysis_basis": null,
+   "regions": [
+    "ES-CT"
+   ],
+   "source_name": "Boletín Oficial del Estado (BOE)",
+   "funder_type": "public",
+   "deadline": null,
+   "opens_at": null,
+   "date": "2026-11-28"
+  },
+  {
+   "id": "54e715b8-a769-4429-ba7f-1f2e1dbd9d6a",
+   "source": "boe",
+   "country": "ES",
+   "category": "law",
+   "title": "Ley Foral 16/2026, de 5 de noviembre, de Juventud y Justicia Intergeneracional.",
+   "summary": "COMUNIDAD FORAL DE NAVARRA",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-25031",
+   "published_at": "2026-11-28",
+   "first_seen_at": null,
+   "impact": null,
+   "impact_summary": null,
+   "affected": null,
+   "urgency": null,
+   "topics": [],
+   "analysis_basis": null,
+   "regions": [
+    "ES-NC"
+   ],
+   "source_name": "Boletín Oficial del Estado (BOE)",
+   "funder_type": "public",
+   "deadline": null,
+   "opens_at": null,
+   "date": "2026-11-28"
+  },
+  {
+   "id": "6eed7c74-ace0-4526-a085-bfe42a684fa1",
+   "source": "boe",
+   "country": "ES",
+   "category": "funding",
+   "title": "Orden TDF/1278/2026, de 19 de noviembre, por la que se establecen las bases reguladoras para la concesión de ayudas destinadas a la realización de proyectos que impulsen el desarrollo de las tecnologías cuánticas y el ecosistema cuántico en España.",
+   "summary": "MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-25080",
+   "published_at": "2026-11-28",
+   "first_seen_at": null,
+   "impact": null,
+   "impact_summary": null,
+   "affected": null,
+   "urgency": null,
+   "topics": [
+    "funding"
+   ],
+   "analysis_basis": null,
+   "regions": [],
+   "source_name": "Boletín Oficial del Estado (BOE)",
+   "funder_type": "public",
+   "deadline": null,
+   "opens_at": null,
+   "date": "2026-11-28"
+  },
+  {
+   "id": "8362ec84-6d6d-4b4b-9de9-46a25b317143",
+   "source": "boe",
+   "country": "ES",
+   "category": "law",
+   "title": "Resolución de 21 de noviembre de 2026, del Instituto Nacional de las Artes Escénicas y de la Música, por la que se publica el Convenio con la Universidad de Salamanca, para la organización conjunta de dos series de conciertos correspondientes a sendos ciclos musicales: «Salamanca Barroca» y «Salamanca Jazz», y una actividad educativa asociada al ciclo «Salamanca Barroca» dentro de la programación del Centro Nacional de Difusión Musical para la temporada 2026-2027.",
+   "summary": "MINISTERIO DE CULTURA",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-25070",
+   "published_at": "2026-11-28",
+   "first_seen_at": null,
+   "impact": null,
+   "impact_summary": null,
+   "affected": null,
+   "urgency": null,
+   "topics": [],
+   "analysis_basis": null,
+   "regions": [],
+   "source_name": "Boletín Oficial del Estado (BOE)",
+   "funder_type": "public",
+   "deadline": null,
+   "opens_at": null,
+   "date": "2026-11-28"
+  },
+  {
+   "id": "985a29e8-94fe-424d-bffe-aae2e1738a46",
+   "source": "boe",
+   "country": "ES",
+   "category": "law",
+   "title": "Real Decreto 1074/2026, de 26 de noviembre, por el que se regula el procedimiento de reconocimiento académico y profesional de las titulaciones universitarias oficiales obtenidas en sistemas universitarios extranjeros.",
+   "summary": "MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-25029",
+   "published_at": "2026-11-28",
+   "first_seen_at": null,
+   "impact": "neutral",
+   "impact_summary": "El Real Decreto 1074/2026 regula los procedimientos de homologación y equivalencia de títulos universitarios extranjeros en España. Establece dos vías: una que permite el reconocimiento para ejercer profesiones reguladas y otra que solo otorga equivalencia académica.",
+   "affected": "Profesionales y autónomos con títulos extranjeros; empresas que contraten personal extranjero",
+   "urgency": "low",
+   "topics": [],
+   "analysis_basis": "fulltext",
+   "regions": [],
+   "source_name": "Boletín Oficial del Estado (BOE)",
+   "funder_type": "public",
+   "deadline": null,
+   "opens_at": null,
+   "date": "2026-11-28"
+  },
+  {
+   "id": "fb174edd-93f9-4f17-a316-a344f171de30",
+   "source": "boe",
+   "country": "ES",
+   "category": "law",
+   "title": "Orden TED/1275/2026, de 30 de octubre, por la que se establecen las normas generales para la exención de autorización del tratamiento de residuos biodegradables mediante compostaje doméstico y comunitario.",
+   "summary": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-25027",
+   "published_at": "2026-11-28",
+   "first_seen_at": null,
+   "impact": "positive",
+   "impact_summary": "La orden regula la exención de autorización para el compostaje doméstico y comunitario y establece el procedimiento de comunicación previa y la información necesaria para contabilizar su contribución al reciclado. Facilita a los titulares de áreas de compostaje cumplir con la normativa sin necesidad de autorización adicional.",
+   "affected": "Titulares de áreas de compostaje doméstico o comunitario (personas físicas o jurídicas)",
+   "urgency": "low",
+   "topics": [],
+   "analysis_basis": "fulltext",
+   "regions": [],
+   "source_name": "Boletín Oficial del Estado (BOE)",
+   "funder_type": "public",
+   "deadline": null,
+   "opens_at": null,
+   "date": "2026-11-28"
+  },
   {
    "id": "0a1077f0-fe94-4c78-a3d7-9637e6ab41f6",
    "source": "bdns",
@@ -71197,163 +71341,30 @@
    "deadline": null,
    "opens_at": null,
    "date": "2026-06-05"
-  },
-  {
-   "id": "fd6d7f02-40f1-4cff-a2f6-6d138eefcd50",
-   "source": "boe",
-   "country": "ES",
-   "category": "funding",
-   "title": "Resolución de 3 de junio de 2026, de la Secretaría General del Tesoro y Financiación Internacional, por la que se actualiza el Anexo 1 incluido en la Resolución de 4 de julio de 2017, de la Secretaría General del Tesoro y Política Financiera, por la que se define el principio de prudencia financiera aplicable a las operaciones de endeudamiento y derivados de las comunidades autónomas y entidades locales.",
-   "summary": "MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA",
-   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-12042",
-   "published_at": "2026-06-05",
-   "first_seen_at": null,
-   "impact": null,
-   "impact_summary": null,
-   "affected": null,
-   "urgency": null,
-   "topics": [
-    "funding"
-   ],
-   "analysis_basis": null,
-   "regions": [],
-   "source_name": "Boletín Oficial del Estado (BOE)",
-   "funder_type": "public",
-   "deadline": null,
-   "opens_at": null,
-   "date": "2026-06-05"
-  },
-  {
-   "id": "129aa207-10c8-49fa-8be0-0b2b610efc9e",
-   "source": "bdns",
-   "country": "ES",
-   "category": "funding",
-   "title": "PEF GENERAL 2026",
-   "summary": "CANARIAS · CONSEJERÍA DE PRESIDENCIA, ADMINISTRACIONES PÚBLICAS, JUSTICIA Y SEGURIDAD",
-   "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/910795",
-   "published_at": "2026-06-04",
-   "first_seen_at": null,
-   "impact": "positive",
-   "impact_summary": "Se publica el PEF GENERAL 2026 para Canarias.",
-   "affected": "Empresas y autónomos en Canarias",
-   "urgency": "low",
-   "topics": [],
-   "analysis_basis": "summary",
-   "regions": [
-    "ES-CN"
-   ],
-   "source_name": "Base de Datos Nacional de Subvenciones (BDNS)",
-   "funder_type": "public",
-   "deadline": "2026-12-31",
-   "opens_at": "2026-01-01",
-   "date": "2026-06-04"
-  },
-  {
-   "id": "394a0ca1-9ee8-4fef-a6d0-0e724405fea2",
-   "source": "bdns",
-   "country": "ES",
-   "category": "funding",
-   "title": "PEF GENERAL 2026",
-   "summary": "CANARIAS · CONSEJERÍA DE PRESIDENCIA, ADMINISTRACIONES PÚBLICAS, JUSTICIA Y SEGURIDAD",
-   "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/910794",
-   "published_at": "2026-06-04",
-   "first_seen_at": null,
-   "impact": "positive",
-   "impact_summary": "Se publica el PEF GENERAL 2026 para Canarias.",
-   "affected": "Empresas y autónomos en Canarias",
-   "urgency": "low",
-   "topics": [],
-   "analysis_basis": "summary",
-   "regions": [
-    "ES-CN"
-   ],
-   "source_name": "Base de Datos Nacional de Subvenciones (BDNS)",
-   "funder_type": "public",
-   "deadline": "2026-12-31",
-   "opens_at": "2026-01-01",
-   "date": "2026-06-04"
-  },
-  {
-   "id": "50c288d4-3e5e-47f0-9dbc-74c4d39e2b81",
-   "source": "bdns",
-   "country": "ES",
-   "category": "funding",
-   "title": "Convenio Asociación de Industrias del Calzado y Conexas de La Rioja AICCOR",
-   "summary": "LA RIOJA · AGENCIA DE DESARROLLO ECONÓMICO DE LA RIOJA",
-   "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/910584",
-   "published_at": "2026-06-04",
-   "first_seen_at": null,
-   "impact": "positive",
-   "impact_summary": "Se firma convenio con la Asociación de Industrias del Calzado y Conexas de La Rioja.",
-   "affected": "Empresas del sector calzado en La Rioja",
-   "urgency": "low",
-   "topics": [],
-   "analysis_basis": "title",
-   "regions": [
-    "ES-RI"
-   ],
-   "source_name": "Base de Datos Nacional de Subvenciones (BDNS)",
-   "funder_type": "public",
-   "deadline": "2026-12-31",
-   "opens_at": "2026-01-01",
-   "date": "2026-06-04"
-  },
-  {
-   "id": "785fbb88-8447-40fd-9e82-68add4d22bae",
-   "source": "bdns",
-   "country": "ES",
-   "category": "funding",
-   "title": "Subvención al Ayuntamiento de Villava-Atarrabia  para el nuevo suelo del polideportivo Hermanos Induráin",
-   "summary": "COMUNIDAD FORAL DE NAVARRA · INSTITUTO NAVARRO DE DEPORTE",
-   "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/910568",
-   "published_at": "2026-06-04",
-   "first_seen_at": null,
-   "impact": "positive",
-   "impact_summary": "Se concede subvención al Ayuntamiento de Villava-Atarrabia para el suelo del polideportivo.",
-   "affected": "Empresas y autónomos en Navarra",
-   "urgency": "low",
-   "topics": [
-    "funding"
-   ],
-   "analysis_basis": "title",
-   "regions": [
-    "ES-NC"
-   ],
-   "source_name": "Base de Datos Nacional de Subvenciones (BDNS)",
-   "funder_type": "public",
-   "deadline": "2026-12-31",
-   "opens_at": "2026-06-04",
-   "date": "2026-06-04"
-  },
-  {
-   "id": "7c811574-9874-498e-b699-7af7a7bd30c6",
-   "source": "bdns",
-   "country": "ES",
-   "category": "funding",
-   "title": "SUBVENCION FUND ATENCION A LA FAMILIA 2026",
-   "summary": "CANARIAS · CONSEJERÍA DE BIENESTAR SOCIAL, IGUALDAD, JUVENTUD, INFANCIA Y FAMILIAS",
-   "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/910787",
-   "published_at": "2026-06-04",
-   "first_seen_at": null,
-   "impact": "positive",
-   "impact_summary": "Se anuncia la Subvención Fund Atención a la Familia 2026 para Canarias.",
-   "affected": "Empresas y autónomos en Canarias",
-   "urgency": "low",
-   "topics": [
-    "funding"
-   ],
-   "analysis_basis": "summary",
-   "regions": [
-    "ES-CN"
-   ],
-   "source_name": "Base de Datos Nacional de Subvenciones (BDNS)",
-   "funder_type": "public",
-   "deadline": "2026-12-31",
-   "opens_at": "2026-01-01",
-   "date": "2026-06-04"
   }
  ],
  "opportunities": [
+  {
+   "id": "5511212a-7694-47e5-879c-1ee1641d12a9",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Portugal – Reparación y mantenimiento de planta depuradora de aguas residuales – EMPREITADA DE REMODELAÇÃO E PRESTAÇÃO DE SERVIÇOS DE ARRANQUE E EXPLORAÇÃO DA ETAR DO SALGUEIRO",
+   "summary": "Comprador: Associação de Municípios das Terras de Santa Maria",
+   "url": "https://ted.europa.eu/es/notice/-/detail/818236-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-11-29",
+   "country": "PT",
+   "countries": [
+    "PT"
+   ],
+   "cpv": [
+    "45259100",
+    "45259100"
+   ]
+  },
   {
    "id": "b2708959-4dab-4cb2-a994-6b872054a9cb",
    "source": "ted",
@@ -71373,6 +71384,71 @@
    "cpv": [
     "48780000",
     "48780000"
+   ]
+  },
+  {
+   "id": "41a0f5fc-4640-4e45-bb01-292d896099c2",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Lituania – Instrumentos de cómputo – Grandinių analizatorius (VNA analyzer)",
+   "summary": "Comprador: Lietuvos Respublikos ryšių reguliavimo tarnyba",
+   "url": "https://ted.europa.eu/es/notice/-/detail/818011-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-11-30",
+   "country": "LT",
+   "countries": [
+    "LT"
+   ],
+   "cpv": [
+    "38410000",
+    "38410000"
+   ]
+  },
+  {
+   "id": "a9615846-8c34-4423-b019-ea984aad6193",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Chipre – Servicios agrícolas, forestales, hortícolas, acuícolas y apícolas – Παροχή υπηρεσιών για κλάδεμα, εφαρμογή καλλιεργητικών φροντίδων, φύτευση, άρδευση φυτικού υλικού, γενική καθαριότητα, απομάκρυνση και διαχείριση αποβλήτων, σε δρόμους, πλατείες...(81/2026)",
+   "summary": "Comprador: ΔΗΜΟΣ ΛΕΜΕΣΟΥ",
+   "url": "https://ted.europa.eu/es/notice/-/detail/817675-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-11-30",
+   "country": "CY",
+   "countries": [
+    "CY"
+   ],
+   "cpv": [
+    "77000000",
+    "77310000",
+    "77313000",
+    "77312000",
+    "77340000",
+    "77000000",
+    "77000000",
+    "77000000",
+    "77000000",
+    "77310000",
+    "77313000",
+    "77312000",
+    "77340000",
+    "77310000",
+    "77313000",
+    "77312000",
+    "77340000",
+    "77310000",
+    "77313000",
+    "77312000",
+    "77340000",
+    "77310000",
+    "77313000",
+    "77312000",
+    "77340000"
    ]
   },
   {
@@ -71634,6 +71710,90 @@
     "90611000",
     "45233141",
     "45233142"
+   ]
+  },
+  {
+   "id": "4d6dd23e-81ff-4f0e-aa08-3eef5c5eafdf",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Alemania – Trabajos de aislamiento para tejados – MHH - I02 - Mod. Fenster/Türen Fassade - Gewerk: Dachabdichtungsarbeiten I04",
+   "summary": "Comprador: Medizinische Hochschule Hannover",
+   "url": "https://ted.europa.eu/es/notice/-/detail/818252-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-11-30",
+   "country": "DE",
+   "countries": [
+    "DE"
+   ],
+   "cpv": [
+    "45261410",
+    "45261410"
+   ]
+  },
+  {
+   "id": "980ff626-87bf-4082-afe7-012b662cafa1",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Alemania – Trabajos de obra bruta – Baumeisterarbeiten",
+   "summary": "Comprador: Stadt Ingolstadt",
+   "url": "https://ted.europa.eu/es/notice/-/detail/817682-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-11-30",
+   "country": "DE",
+   "countries": [
+    "DE"
+   ],
+   "cpv": [
+    "45223220",
+    "45223220"
+   ]
+  },
+  {
+   "id": "cb8bd2a0-5858-463a-a399-ca9dcda56e7e",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Alemania – Electricidad, calefacción, energías solar y nuclear – Stromlieferung für die Stadt Neu-Ulm ab 01.01.2027",
+   "summary": "Comprador: Stadt Neu-Ulm",
+   "url": "https://ted.europa.eu/es/notice/-/detail/817905-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-11-30",
+   "country": "DE",
+   "countries": [
+    "DE"
+   ],
+   "cpv": [
+    "09300000",
+    "09300000"
+   ]
+  },
+  {
+   "id": "ecc93e05-0ca8-4f5f-a874-dcbdc210d981",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Alemania – Servicios de suministro de software – Netzwerkmonitoring Lizenzen SolarWinds",
+   "summary": "Comprador: Berliner Wasserbetriebe",
+   "url": "https://ted.europa.eu/es/notice/-/detail/817678-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-11-30",
+   "country": "DE",
+   "countries": [
+    "DE"
+   ],
+   "cpv": [
+    "72268000",
+    "72268000"
    ]
   },
   {
@@ -74310,6 +74470,159 @@
    ]
   },
   {
+   "id": "5fa07074-d0d4-4cd1-b539-28b96349aab9",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Polonia – Trabajos de revisión y reacondicionamiento – Przebudowa dawnego magazynu chloru związana z adaptacją obiektu na cele warsztatowo – magazynowe zlokalizowanego na Stacji Pomp Rzecznych, ul. Czerniakowska 124, Dzielnica Śródmieście, w Warszawie",
+   "summary": "Comprador: Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m. st. Warszawie S.A.",
+   "url": "https://ted.europa.eu/es/notice/-/detail/817832-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-01",
+   "country": "PL",
+   "countries": [
+    "PL"
+   ],
+   "cpv": [
+    "45453000",
+    "45100000",
+    "45200000",
+    "45400000",
+    "45300000",
+    "45453000",
+    "45100000",
+    "45200000",
+    "45400000",
+    "45300000"
+   ]
+  },
+  {
+   "id": "acafcb88-fbf4-4873-a0e4-4845e6db4bc1",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Polonia – Equipamiento médico – Dostawa sprzętu medycznego jednorazowego i wielorazowego użytku w 58 Pakietach dla potrzeb WSZ w Elblągu.",
+   "summary": "Comprador: Wojewódzki Szpital Zespolony w Elblągu",
+   "url": "https://ted.europa.eu/es/notice/-/detail/818215-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-01",
+   "country": "PL",
+   "countries": [
+    "PL"
+   ],
+   "cpv": [
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000"
+   ]
+  },
+  {
+   "id": "d1d91595-336f-4db7-8ffe-9190180c8d92",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Polonia – Servicios de bienestar social proporcionados a ancianos – Świadczenie usług opiekuńczych, w tym specjalistycznych usług opiekuńczych w 2027 roku",
+   "summary": "Comprador: MIEJSKI OŚRODEK POMOCY SPOŁECZNEJ W TYCHACH",
+   "url": "https://ted.europa.eu/es/notice/-/detail/817608-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-01",
+   "country": "PL",
+   "countries": [
+    "PL"
+   ],
+   "cpv": [
+    "85311100",
+    "85311200",
+    "85312000",
+    "85311100",
+    "85311200",
+    "85312000"
+   ]
+  },
+  {
+   "id": "f3ca383d-0286-48f8-bdd6-bcfa61c1cfb0",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Chequia – Barrederas viales automóviles – Obnova zametačů pro SSÚD",
+   "summary": "Comprador: Ředitelství silnic a dálnic s. p.",
+   "url": "https://ted.europa.eu/es/notice/-/detail/818087-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-01",
+   "country": "CZ",
+   "countries": [
+    "CZ"
+   ],
+   "cpv": [
+    "34144430",
+    "34144430"
+   ]
+  },
+  {
    "id": "2087422b-3198-4123-86e7-9334d403a76f",
    "source": "ted",
    "source_name": "Tenders Electronic Daily (TED, UE)",
@@ -75607,6 +75920,30 @@
    ]
   },
   {
+   "id": "4e0e2ffc-be86-49fe-bd52-b933ef8a08bc",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Lituania – Trabajos de pavimentación de calles – Vilniaus miesto susisiekimo komunikacijų statyba, rekonstrukcija ir kapitalinis remontas (Atviras tarptautinis pirkimas)",
+   "summary": "Comprador: VšĮ Vilniaus pirkimų agentūra",
+   "url": "https://ted.europa.eu/es/notice/-/detail/817663-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-02",
+   "country": "LT",
+   "countries": [
+    "LT"
+   ],
+   "cpv": [
+    "45233252",
+    "45233252",
+    "45233252",
+    "45233252",
+    "45233252"
+   ]
+  },
+  {
    "id": "fe5df220-8f8d-495c-9630-48a0570f60f7",
    "source": "ted",
    "source_name": "Tenders Electronic Daily (TED, UE)",
@@ -76068,6 +76405,127 @@
    "cpv": [
     "90611000",
     "90611000"
+   ]
+  },
+  {
+   "id": "0309e613-18b5-4880-befc-d449b67fb72a",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Polonia – Servicios de restaurante y de suministro de comidas – Przygotowywanie, wydawanie i dostarczanie gorących posiłków klientom MOPR w 2027 roku",
+   "summary": "Comprador: URZĄD MIASTA POZNANIA",
+   "url": "https://ted.europa.eu/es/notice/-/detail/817567-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-02",
+   "country": "PL",
+   "countries": [
+    "PL"
+   ],
+   "cpv": [
+    "55300000",
+    "55300000",
+    "55300000",
+    "55300000",
+    "55300000",
+    "55300000",
+    "55300000",
+    "55321000",
+    "55321000",
+    "55321000",
+    "55321000",
+    "55321000",
+    "55321000",
+    "55520000"
+   ]
+  },
+  {
+   "id": "713b008d-8c39-4054-9d64-d919d596dc9e",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Polonia – Equipamiento médico – Zakup, dostawa i montaż nowoczesnego toru wizyjnego i zestawów narzędzi laparoskopowych na potrzeby Mazowieckiego Szpitala Specjalistycznego im. dr. Józefa Psarskiego w Ostrołęce w ramach realizacji zadania pod nazwą „Wzrost dostępności i jakości świadczeń z zakresu chirurgii małoinwazyjnej poprzez zakup nowoczesnego toru wizyjnego i zestawów narzędzi laparoskopowych”",
+   "summary": "Comprador: Mazowiecki Szpital Specjalistyczny im. dr. Józefa Psarskiego w Ostrołęce",
+   "url": "https://ted.europa.eu/es/notice/-/detail/817918-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-02",
+   "country": "PL",
+   "countries": [
+    "PL"
+   ],
+   "cpv": [
+    "33100000",
+    "33000000",
+    "33169400",
+    "33162000",
+    "33162200",
+    "33100000",
+    "33000000",
+    "33169400",
+    "33162000",
+    "33162200"
+   ]
+  },
+  {
+   "id": "d58c1185-f8b9-40f4-9baf-2b39a64265fa",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Croacia – Servicios de consultoría comercial y en gestión – Usluga informiranja, podizanja svijesti, promidžbe i provedbe komunikacijskih aktivnosti",
+   "summary": "Comprador: MINISTARSTVO RADA, MIROVINSKOGA SUSTAVA, OBITELJI I SOCIJALNE POLITIKE",
+   "url": "https://ted.europa.eu/es/notice/-/detail/817725-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-02",
+   "country": "HR",
+   "countries": [
+    "HR"
+   ],
+   "cpv": [
+    "79410000",
+    "79410000",
+    "79410000",
+    "79410000",
+    "79410000",
+    "79410000",
+    "79410000",
+    "79410000",
+    "79810000",
+    "79822500",
+    "79810000",
+    "79822500",
+    "79823000",
+    "79311000",
+    "79950000",
+    "79340000",
+    "79342200",
+    "92111200",
+    "92312212"
+   ]
+  },
+  {
+   "id": "fe72a2d2-fea4-4ac0-b54a-bed71602f0e3",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Hungría – Servicios de suministro de comidas para escuelas – Iskolai és óvodai közétkeztetés",
+   "summary": "Comprador: Budaörs Város Önkormányzata",
+   "url": "https://ted.europa.eu/es/notice/-/detail/818303-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-02",
+   "country": "HU",
+   "countries": [
+    "HU"
+   ],
+   "cpv": [
+    "55524000",
+    "55321000"
    ]
   },
   {
@@ -77556,6 +78014,104 @@
    ]
   },
   {
+   "id": "1ab58073-223a-43f5-b534-74d498bcfa0f",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Bélgica – Productos lácteos – Raamovereenkomst voor de levering van zuivelproducten voor een periode van maximum 4 jaar",
+   "summary": "Comprador: Openbaar Centrum voor Maatschappelijk Welzijn van Oostende",
+   "url": "https://ted.europa.eu/es/notice/-/detail/817931-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-03",
+   "country": "BE",
+   "countries": [
+    "BE"
+   ],
+   "cpv": [
+    "15500000",
+    "15500000",
+    "15500000",
+    "15500000",
+    "15500000",
+    "15540000",
+    "15544000",
+    "15545000",
+    "15543400",
+    "15543300",
+    "15542300",
+    "15542200",
+    "15550000",
+    "15551300",
+    "15510000",
+    "15530000",
+    "15512000",
+    "15512900",
+    "15551500",
+    "15896000",
+    "15550000"
+   ]
+  },
+  {
+   "id": "adb08465-02cc-49a1-a4f2-7c5b3c41f16d",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Polonia – Electricidad, calefacción, energías solar y nuclear – Dostawa energii elektrycznej dla Lubelskiego Centrum Innowacji i Technologii oraz dla Lubelskiego Centrum Nieruchomości Sp. z o.o.",
+   "summary": "Comprador: Województwo Lubelskie - Lubelskie Centrum Innowacji i Technologii",
+   "url": "https://ted.europa.eu/es/notice/-/detail/818237-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-03",
+   "country": "PL",
+   "countries": [
+    "PL"
+   ],
+   "cpv": [
+    "09300000",
+    "09310000",
+    "09300000",
+    "09310000"
+   ]
+  },
+  {
+   "id": "b7fb3657-2bbe-4947-8fff-bc465170eb7d",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Hungría – Obras viales – TOP Plusz önkormányzati munkák II. (F.m.V.)",
+   "summary": "Comprador: Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság",
+   "url": "https://ted.europa.eu/es/notice/-/detail/817744-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-03",
+   "country": "HU",
+   "countries": [
+    "HU"
+   ],
+   "cpv": [
+    "45233140",
+    "45233140",
+    "45233140",
+    "45000000",
+    "45233120",
+    "45233221",
+    "45233228",
+    "45100000",
+    "45111290",
+    "45221117",
+    "45316110",
+    "45316200",
+    "45000000",
+    "45233120",
+    "45233221",
+    "45233228"
+   ]
+  },
+  {
    "id": "0b7d600a-cb9b-49f0-800b-320703612840",
    "source": "ted",
    "source_name": "Tenders Electronic Daily (TED, UE)",
@@ -78650,6 +79206,48 @@
    ]
   },
   {
+   "id": "14c4b625-99d2-4cee-bead-477efda23998",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Grecia – Instrumentos de quirófano – Δ.05/2026",
+   "summary": "Comprador: ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΣΕΡΡΩΝ",
+   "url": "https://ted.europa.eu/es/notice/-/detail/818096-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-04",
+   "country": "GR",
+   "countries": [
+    "GR"
+   ],
+   "cpv": [
+    "33162200",
+    "33162200"
+   ]
+  },
+  {
+   "id": "4afd0102-826b-49f5-b98e-6e70141bc4b0",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Polonia – Servicios relacionados con desperdicios y residuos – Odbiór i zagospodarowanie odpadów komunalnych od właścicieli nieruchomości, na których zamieszkują mieszkańcy, położonych na terenie Gminy Raba Wyżna w okresie od 01.01.2027 r. do 31.12.2027 r.",
+   "summary": "Comprador: Gmina Raba Wyżna",
+   "url": "https://ted.europa.eu/es/notice/-/detail/817593-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-04",
+   "country": "PL",
+   "countries": [
+    "PL"
+   ],
+   "cpv": [
+    "90500000",
+    "90500000"
+   ]
+  },
+  {
    "id": "45f4dba2-cfd0-49b5-b0ab-40d147ebc7b2",
    "source": "ted",
    "source_name": "Tenders Electronic Daily (TED, UE)",
@@ -78842,6 +79440,112 @@
    "cpv": [
     "71313000",
     "71313000"
+   ]
+  },
+  {
+   "id": "253a02ca-16b3-4c24-9f75-47dd96fb94a4",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Polonia – Equipamiento médico – Zakup wieży endoskopowej do zabiegów gastrologicznych ze sztuczną inteligencją oraz aparatu RTG typu ramię C w ramach projektu nr FENX.06.01-IP.03-0018/25 pn. \"Wsparcie infrastruktury 10. WSzKzP SPZOZ w Bydgoszczy w zakresie AOS i leczenia jednego dnia poprzez zakup niezbędnych wyrobów medycznych\"",
+   "summary": "Comprador: 10 Wojskowy Szpital Kliniczny z Polikliniką Samodzielny Publiczny Zakład Opieki Zdrowotnej",
+   "url": "https://ted.europa.eu/es/notice/-/detail/817844-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-04",
+   "country": "PL",
+   "countries": [
+    "PL"
+   ],
+   "cpv": [
+    "33100000",
+    "33168000",
+    "33168100",
+    "33111000",
+    "33100000",
+    "33100000",
+    "33168000",
+    "33168100",
+    "33111000"
+   ]
+  },
+  {
+   "id": "8702c0cd-5878-404b-b3c3-bea056b27a23",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Polonia – Ordenadores de mesa – Dostawa sprzętu informatycznego i akcesoriów komputerowych",
+   "summary": "Comprador: Instytut Matki i Dziecka",
+   "url": "https://ted.europa.eu/es/notice/-/detail/817563-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-04",
+   "country": "PL",
+   "countries": [
+    "PL"
+   ],
+   "cpv": [
+    "30213300",
+    "48000000",
+    "30231300",
+    "30237460",
+    "30237130",
+    "30237240",
+    "32342412",
+    "30213300",
+    "30237130",
+    "30237240",
+    "48000000",
+    "30231300",
+    "30237410",
+    "30237460",
+    "32342412"
+   ]
+  },
+  {
+   "id": "ab50b9b4-fe9d-454d-a249-f74f0d11610c",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Italia – Servicios de asistencia social sin alojamiento – GARA EUROPEA A PROCEDURA APERTA, PER L’AFFIDAMENTO DELLA GESTIONE DEL SERVIZIO DI ASSISTENZA DOMICILIARE (SAD) IN FAVORE DI ANZIANI, DISABILI, MINORI, NUCLEI FAMIGLIARI IN FAVORE DELL’AZIENDA SPECIALE RETESALUTE, CON IL CRITERIO DELL’OFFERTA ECONOMICAMENTE PIÙ VANTAGGIOSA SULLA BASE DEL MIGLIOR RAPPORTO QUALITÀ/PREZZO",
+   "summary": "Comprador: Provincia di Monza e della Brianza",
+   "url": "https://ted.europa.eu/es/notice/-/detail/817809-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-04",
+   "country": "IT",
+   "countries": [
+    "IT"
+   ],
+   "cpv": [
+    "85312000",
+    "85312000"
+   ]
+  },
+  {
+   "id": "ca5c73ca-4e45-469a-9303-d98987868bdd",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Francia – Servicios de arquitectura para trabajos de ampliación de edificios – Mission de maîtrise d'oeuvre pour l'extension et l'aménagement de la gare fluviale",
+   "summary": "Comprador: Port autonome de Strasbourg",
+   "url": "https://ted.europa.eu/es/notice/-/detail/818199-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-04",
+   "country": "FR",
+   "countries": [
+    "FR"
+   ],
+   "cpv": [
+    "71223000",
+    "71223000",
+    "71223000",
+    "71223000"
    ]
   },
   {
@@ -80603,6 +81307,77 @@
    ]
   },
   {
+   "id": "27167dff-5c96-4cef-9507-58121714f52d",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Grecia – Servicios de recogida de desperdicios domésticos – Υπηρεσίες αποκομιδής, μεταφοράς και διάθεσης στερεών μη επικινδύνων οικιακών αποβλήτων, πλύση κάδων και καθαρισμός κοινόχρηστων χώρων, χειρωνακτικά και με μηχανικά μέσα,για τριάντα έξι (36) μήνες με προαίρεση δώδεκα (12) μηνών.",
+   "summary": "Comprador: ΔΗΜΟΣ ΕΔΕΣΣΑΣ",
+   "url": "https://ted.europa.eu/es/notice/-/detail/818324-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-07",
+   "country": "GR",
+   "countries": [
+    "GR"
+   ],
+   "cpv": [
+    "90511200",
+    "90610000",
+    "90511200",
+    "90610000"
+   ]
+  },
+  {
+   "id": "94341492-7b51-41ba-bd15-f94e926e4b38",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Letonia – Trabajos de construcción de carreteras – Būvdarbi uzņēmējdarbības attīstībai Tukuma pilsētas funkcionālajā teritorijā - Pūres pagasta, Pūres ciemā",
+   "summary": "Comprador: Tukuma novada pašvaldība",
+   "url": "https://ted.europa.eu/es/notice/-/detail/817838-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-07",
+   "country": "LV",
+   "countries": [
+    "LV"
+   ],
+   "cpv": [
+    "45233120",
+    "45233252",
+    "45231000",
+    "45454000",
+    "45233120",
+    "45233252",
+    "45231000",
+    "45454000"
+   ]
+  },
+  {
+   "id": "f846e454-e2c7-411b-967d-0f13cdab9a6e",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Italia – Electricidad, calefacción, energías solar y nuclear – Procedura aperta, ai sensi dell&#8217;art. 71 del d.lgs. n. 36/2023, per l&#8217;affidamento della fornitura di energia elettrica per le sedi di Bari e Foggia per l&#8217;anno 2027-2028",
+   "summary": "Comprador: AMIU Puglia S.p.A.",
+   "url": "https://ted.europa.eu/es/notice/-/detail/817834-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-07",
+   "country": "IT",
+   "countries": [
+    "IT"
+   ],
+   "cpv": [
+    "09300000",
+    "09300000"
+   ]
+  },
+  {
    "id": "88572ba5-c2b5-4ed3-9165-9ea59a919e92",
    "source": "ted",
    "source_name": "Tenders Electronic Daily (TED, UE)",
@@ -80952,6 +81727,337 @@
    "cpv": [
     "33000000",
     "33000000"
+   ]
+  },
+  {
+   "id": "20c34de9-8b8e-448a-b147-a62396581cbd",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Francia – Artículos eléctricos – Accord-Cadre relatif à la fourniture d'électricité pour la SAEM Sports et Tourisme et sa Filiale SELCA",
+   "summary": "Comprador: SAEM SPORTS ET TOURISME",
+   "url": "https://ted.europa.eu/es/notice/-/detail/818099-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-07",
+   "country": "FR",
+   "countries": [
+    "FR"
+   ],
+   "cpv": [
+    "31682000",
+    "09310000",
+    "31682000",
+    "09310000"
+   ]
+  },
+  {
+   "id": "3deee0fe-5868-4e56-a09d-fb6ed86eaab6",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Eslovenia – Equipamiento médico – Nakup aparatov za zobozdravstveno varstvo in zobno tehniko",
+   "summary": "Comprador: ZDRAVSTVENI DOM LJUBLJANA",
+   "url": "https://ted.europa.eu/es/notice/-/detail/818276-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-07",
+   "country": "SI",
+   "countries": [
+    "SI"
+   ],
+   "cpv": [
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33100000",
+    "33190000"
+   ]
+  },
+  {
+   "id": "41929e61-7206-46aa-999f-3d6b599571ee",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Francia – Trabajos de construcción de estructuras para campos de deportes – Travaux Terrain de Foot 5 pour la communauté d'agglomération la riviera du levant",
+   "summary": "Comprador: Communauté d'agglomération Riviera du Levant",
+   "url": "https://ted.europa.eu/es/notice/-/detail/818078-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-07",
+   "country": "FR",
+   "countries": [
+    "FR"
+   ],
+   "cpv": [
+    "45212221",
+    "45212221",
+    "45212221",
+    "45212221",
+    "45212221",
+    "45212221",
+    "45212221",
+    "45212221"
+   ]
+  },
+  {
+   "id": "43094c4c-a0c4-4d0b-a747-24a3aa016e6e",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Polonia – Productos farmacéuticos – Dostawa produktów farmaceutycznych i dietetycznych",
+   "summary": "Comprador: Samodzielny Publiczny Zakład Opieki Zdrowotnej imienia doktora Kazimierza Hołogi w Nowym Tomyślu",
+   "url": "https://ted.europa.eu/es/notice/-/detail/818188-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-07",
+   "country": "PL",
+   "countries": [
+    "PL"
+   ],
+   "cpv": [
+    "33600000",
+    "33692500",
+    "33141540",
+    "33140000",
+    "33692200",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33696000",
+    "33696000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33141540",
+    "33140000",
+    "33651520",
+    "33140000",
+    "33651520",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33692500",
+    "33140000",
+    "33692200",
+    "33140000",
+    "33692200",
+    "33140000",
+    "15884000",
+    "15884000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33696000"
+   ]
+  },
+  {
+   "id": "58e336e1-f01b-4942-98de-6971046e9226",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Francia – Equipamiento médico – Fourniture, installation, mise en service, formation et maintenance d’équipements analytiques destinés au laboratoire du Centre Hospitalier Universitaire de Reims",
+   "summary": "Comprador: Centre Hospitalier Universitaire de Reims",
+   "url": "https://ted.europa.eu/es/notice/-/detail/818325-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-07",
+   "country": "FR",
+   "countries": [
+    "FR"
+   ],
+   "cpv": [
+    "33100000",
+    "50421000",
+    "33100000",
+    "33100000",
+    "50421000",
+    "50421000"
+   ]
+  },
+  {
+   "id": "991fdd4a-ce51-4364-862a-1c7cd4cb2d28",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Países Bajos – Servicios de arquitectura, construcción, ingeniería e inspección – The provision of Client Representatives at the Dutch North Sea.",
+   "summary": "Comprador: Ministerie van Economische Zaken en Klimaat, Rijksdienst voor Ondernemend Nederland (RVO)",
+   "url": "https://ted.europa.eu/es/notice/-/detail/818035-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-07",
+   "country": "NL",
+   "countries": [
+    "NL"
+   ],
+   "cpv": [
+    "71000000",
+    "71351000",
+    "76520000",
+    "71000000",
+    "71351000",
+    "76520000"
+   ]
+  },
+  {
+   "id": "da1be836-c69e-4825-b7b9-f685b5f1c2b0",
+   "source": "ted",
+   "source_name": "Tenders Electronic Daily (TED, UE)",
+   "kind": "tender",
+   "funder_type": "public",
+   "title": "Polonia – Productos farmacéuticos – Dostawa leków",
+   "summary": "Comprador: Górnośląskie Centrum Medyczne im. prof. Leszka Gieca Śląskiego Uniwersytetu Medycznego w Katowicach",
+   "url": "https://ted.europa.eu/es/notice/-/detail/817620-2026",
+   "published_at": "2026-11-25",
+   "date": "2026-11-25",
+   "deadline": "2026-12-07",
+   "country": "PL",
+   "countries": [
+    "PL"
+   ],
+   "cpv": [
+    "33600000",
+    "33680000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33600000",
+    "33680000",
+    "33680000",
+    "33680000",
+    "33680000",
+    "33680000",
+    "33680000",
+    "33680000",
+    "33680000",
+    "33680000",
+    "33680000",
+    "33680000",
+    "33680000",
+    "33680000",
+    "33680000",
+    "33680000",
+    "33680000",
+    "33680000",
+    "33680000",
+    "33680000",
+    "33680000",
+    "33680000",
+    "33680000",
+    "33680000",
+    "33680000",
+    "33680000",
+    "33680000",
+    "33680000",
+    "33680000"
    ]
   },
   {
@@ -81927,953 +83033,6 @@
    "cpv": [
     "42131230",
     "42131230"
-   ]
-  },
-  {
-   "id": "03092d5d-4ca4-47e2-84d3-d240bbac3c22",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Alemania – Gas natural – Gaslieferung für die Lieferjahre 2027/2028",
-   "summary": "Comprador: Polizeipräsidium Oberpfalz",
-   "url": "https://ted.europa.eu/es/notice/-/detail/797216-2026",
-   "published_at": "2026-11-17",
-   "date": "2026-11-17",
-   "deadline": "2026-12-07",
-   "country": "DE",
-   "countries": [
-    "DE"
-   ],
-   "cpv": [
-    "09123000",
-    "09123000",
-    "09123000",
-    "09123000"
-   ]
-  },
-  {
-   "id": "7c67a2be-d013-4bdf-b241-5ebdb101070e",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Polonia – Gas natural – Kompleksowa dostawa gazu ziemnego wysokometanowego obejmująca sprzedaż i dystrybucję dla obiektów wojskowych będących w administracji 34. WOG Rzeszów w terminie od 01.01.2027 r. do 31.12.2027 r.",
-   "summary": "Comprador: 34. Wojskowy Oddział Gospodarczy",
-   "url": "https://ted.europa.eu/es/notice/-/detail/796697-2026",
-   "published_at": "2026-11-17",
-   "date": "2026-11-17",
-   "deadline": "2026-12-07",
-   "country": "PL",
-   "countries": [
-    "PL"
-   ],
-   "cpv": [
-    "09123000",
-    "65210000",
-    "09123000",
-    "65210000"
-   ]
-  },
-  {
-   "id": "3283e921-2e26-4a50-b38d-8d93211dce6d",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "España – Trabajos de construcción – Mejora red de distribución de agua potable",
-   "summary": "Comprador: Alcaldía del Ayuntamiento de Benigembla",
-   "url": "https://ted.europa.eu/es/notice/-/detail/792883-2026",
-   "published_at": "2026-11-16",
-   "date": "2026-11-16",
-   "deadline": "2026-12-07",
-   "country": "ES",
-   "countries": [
-    "ES"
-   ],
-   "cpv": [
-    "45000000",
-    "45000000"
-   ]
-  },
-  {
-   "id": "3b469ab0-2059-4e23-a6d8-85e24f3f649a",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Bélgica – Unidad de ultrasonidos – LA FOURNITURE ET L’INSTALLATION D’ECHOGRAPHES POUR LE SERVICE DE RADIOLOGIE DES SITES DE SERAING ET WAREMME ET D’UN ECHOGRAPHE POUR LE SERVICE DE SENOLOGIE DU SITE DE WAREMME",
-   "summary": "Comprador: Centre Hospitalier Bois de l'Abbaye",
-   "url": "https://ted.europa.eu/es/notice/-/detail/793341-2026",
-   "published_at": "2026-11-16",
-   "date": "2026-11-16",
-   "deadline": "2026-12-07",
-   "country": "BE",
-   "countries": [
-    "BE"
-   ],
-   "cpv": [
-    "33112200",
-    "33112200",
-    "33112200"
-   ]
-  },
-  {
-   "id": "5570926c-829a-4e4e-9f25-9843d1c3850b",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Suiza – Trabajos de construcción de inmuebles – Ecône - Nouveau poste, Travaux gros œuvre",
-   "summary": "Comprador: FMV SA",
-   "url": "https://ted.europa.eu/es/notice/-/detail/793355-2026",
-   "published_at": "2026-11-16",
-   "date": "2026-11-16",
-   "deadline": "2026-12-07",
-   "country": null,
-   "countries": [],
-   "cpv": [
-    "45210000",
-    "45210000"
-   ]
-  },
-  {
-   "id": "86dbe940-2d23-4e0a-926f-3559d788c91c",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Polonia – Gas natural – Kompleksowa dostawa gazu ziemnego wysokometanowego obejmująca sprzedaż i dystrybucję dla obiektów wojskowych będących w administracji 34. WOG Rzeszów w terminie od 01.01.2027 r. do 31.12.2027 r.",
-   "summary": "Comprador: 34. Wojskowy Oddział Gospodarczy",
-   "url": "https://ted.europa.eu/es/notice/-/detail/793390-2026",
-   "published_at": "2026-11-16",
-   "date": "2026-11-16",
-   "deadline": "2026-12-07",
-   "country": "PL",
-   "countries": [
-    "PL"
-   ],
-   "cpv": [
-    "09123000",
-    "65210000",
-    "09123000",
-    "65210000"
-   ]
-  },
-  {
-   "id": "f69540d3-52a4-4ce1-bb1d-8415625e8cf5",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Macedonia del Norte – Otros servicios comunitarios, sociales o personales – Open",
-   "summary": "Comprador: PE Communal Hygiene -Skopje",
-   "url": "https://ted.europa.eu/es/notice/-/detail/793010-2026",
-   "published_at": "2026-11-16",
-   "date": "2026-11-16",
-   "deadline": "2026-12-07",
-   "country": null,
-   "countries": [],
-   "cpv": [
-    "98000000",
-    "98000000",
-    "98000000"
-   ]
-  },
-  {
-   "id": "22e9845c-eea1-4558-a762-84c8cec44fd5",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Finlandia – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – Loppukäyttäjän tukipalvelut ja laitteet",
-   "summary": "Comprador: Finnvera Oyj",
-   "url": "https://ted.europa.eu/es/notice/-/detail/811551-2026",
-   "published_at": "2026-11-23",
-   "date": "2026-11-23",
-   "deadline": "2026-12-07",
-   "country": "FI",
-   "countries": [
-    "FI"
-   ],
-   "cpv": [
-    "72000000",
-    "72000000"
-   ]
-  },
-  {
-   "id": "36f87893-b16d-46fc-b01c-8b9861531c56",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Suecia – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – Upphandling Datacenter - Server/Lagring",
-   "summary": "Comprador: Post- och Telestyrelsen",
-   "url": "https://ted.europa.eu/es/notice/-/detail/807279-2026",
-   "published_at": "2026-11-20",
-   "date": "2026-11-20",
-   "deadline": "2026-12-07",
-   "country": "SE",
-   "countries": [
-    "SE"
-   ],
-   "cpv": [
-    "72000000",
-    "72000000"
-   ]
-  },
-  {
-   "id": "883b698d-2c26-4315-af8d-55872237316e",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Finlandia – Equipo de laboratorio, óptico y de precisión (excepto gafas) – Inductively Coupled Plasma Reactive Ion Etching (ICP-RIE) System",
-   "summary": "Comprador: Oulun yliopisto",
-   "url": "https://ted.europa.eu/es/notice/-/detail/807537-2026",
-   "published_at": "2026-11-20",
-   "date": "2026-11-20",
-   "deadline": "2026-12-07",
-   "country": "FI",
-   "countries": [
-    "FI"
-   ],
-   "cpv": [
-    "38000000",
-    "38000000"
-   ]
-  },
-  {
-   "id": "7bb0a275-9988-4999-ac9e-c327f74bcab0",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Finlandia – Servicios de mantenimiento de instalaciones de alumbrado público y semáforos – Valaistusverkon huolto- ja kunnossapitotyöt 2027-2028 (2030)",
-   "summary": "Comprador: Hollolan kunta",
-   "url": "https://ted.europa.eu/es/notice/-/detail/796925-2026",
-   "published_at": "2026-11-17",
-   "date": "2026-11-17",
-   "deadline": "2026-12-07",
-   "country": "FI",
-   "countries": [
-    "FI"
-   ],
-   "cpv": [
-    "50232000",
-    "50232000"
-   ]
-  },
-  {
-   "id": "f759e1e1-3468-496c-9197-ed74964adda0",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Rumanía – Productos consumibles para diálisis renal – PACHET PENTRU PROCEDURILE DE SUPLEERE RENALA SI STARI SEPTICE",
-   "summary": "Comprador: SPITALUL JUDETEAN DE URGENTA ZALAU",
-   "url": "https://ted.europa.eu/es/notice/-/detail/808025-2026",
-   "published_at": "2026-11-20",
-   "date": "2026-11-20",
-   "deadline": "2026-12-08",
-   "country": "RO",
-   "countries": [
-    "RO"
-   ],
-   "cpv": [
-    "33181520",
-    "33181520"
-   ]
-  },
-  {
-   "id": "2181c979-aec8-4163-89fd-3476e7c53000",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Lituania – Sistema de vigilancia – Kenos pasienio užkardos sienos stebėjimo sistemos atnaujinimas",
-   "summary": "Comprador: Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos",
-   "url": "https://ted.europa.eu/es/notice/-/detail/803841-2026",
-   "published_at": "2026-11-19",
-   "date": "2026-11-19",
-   "deadline": "2026-12-08",
-   "country": "LT",
-   "countries": [
-    "LT"
-   ],
-   "cpv": [
-    "35125000",
-    "35125000"
-   ]
-  },
-  {
-   "id": "8b968631-ff97-4cd7-b2f3-ae4bbcc36f12",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Rumanía – Servicios de actualización informática – Servicii de actualizare si extindere subscriptii, update, suport tehnic, garantie pentru solutii informatice, în cadrul proiectului BYTE_OC",
-   "summary": "Comprador: INSPECTORATUL GENERAL AL POLITIEI ROMANE",
-   "url": "https://ted.europa.eu/es/notice/-/detail/804357-2026",
-   "published_at": "2026-11-19",
-   "date": "2026-11-19",
-   "deadline": "2026-12-08",
-   "country": "RO",
-   "countries": [
-    "RO"
-   ],
-   "cpv": [
-    "72540000",
-    "72540000",
-    "72540000",
-    "72540000",
-    "72540000",
-    "72540000"
-   ]
-  },
-  {
-   "id": "5138b77d-76e0-4fb9-a771-63d94b8258b0",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Letonia – Servicios relacionados con la silvicultura – Mežsaimniecisko darbu pakalpojuma sniegšana (meža atjaunošanas, atjaunoto platību un jaunaudžu kopšanas darbi)” 2027. – 2028. gadā",
-   "summary": "Comprador: SIA “Rīgas meži”",
-   "url": "https://ted.europa.eu/es/notice/-/detail/800941-2026",
-   "published_at": "2026-11-18",
-   "date": "2026-11-18",
-   "deadline": "2026-12-08",
-   "country": "LV",
-   "countries": [
-    "LV"
-   ],
-   "cpv": [
-    "77230000",
-    "77230000",
-    "77230000",
-    "77230000",
-    "77230000",
-    "77230000",
-    "77230000"
-   ]
-  },
-  {
-   "id": "0374bbe3-64f3-463e-8b9b-5a6f1e465217",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Polonia – Trabajos de construcción de autopistas – Rozbudowa drogi krajowej nr 12 na odcinku Józefów – granica województwa wielkopolskiego.",
-   "summary": "Comprador: Generalna Dyrekcja Dróg Krajowych i Autostrad",
-   "url": "https://ted.europa.eu/es/notice/-/detail/814339-2026",
-   "published_at": "2026-11-24",
-   "date": "2026-11-24",
-   "deadline": "2026-12-08",
-   "country": "PL",
-   "countries": [
-    "PL"
-   ],
-   "cpv": [
-    "45233130",
-    "45233220",
-    "45233223",
-    "45233221",
-    "45233290",
-    "45230000",
-    "45316110",
-    "45231400",
-    "45231600",
-    "45240000",
-    "45233130",
-    "45233220",
-    "45233223",
-    "45233221",
-    "45233290",
-    "45230000",
-    "45316110",
-    "45231400",
-    "45231600",
-    "45240000"
-   ]
-  },
-  {
-   "id": "69d5ac00-3639-4d4b-a566-adbcda1250c9",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Países Bajos – Servicios de reparación y mantenimiento de equipos de edificios – Onderhoud technische installaties gemeentelijke gebouwen en opvanglocaties",
-   "summary": "Comprador: Gemeente Hardenberg",
-   "url": "https://ted.europa.eu/es/notice/-/detail/814285-2026",
-   "published_at": "2026-11-24",
-   "date": "2026-11-24",
-   "deadline": "2026-12-08",
-   "country": "NL",
-   "countries": [
-    "NL"
-   ],
-   "cpv": [
-    "50700000",
-    "50710000",
-    "50800000",
-    "50700000",
-    "50700000",
-    "50710000",
-    "50800000",
-    "50710000",
-    "50800000"
-   ]
-  },
-  {
-   "id": "7b53ecd4-01f1-4fe7-a4a4-8a6ffe9546d9",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Polonia – Trabajos de construcción – Zaprojektowanie i wykonanie Robót dla projektu „Modernizacja linii kolejowej nr 353 na odcinku Toruń Główny - Toruń Wschodni wraz z infrastrukturą dworcową oraz budową nowych przystanków kolejowych w Toruniu - BiT City II”",
-   "summary": "Comprador: PKP Polskie Linie Kolejowe S.A.",
-   "url": "https://ted.europa.eu/es/notice/-/detail/814373-2026",
-   "published_at": "2026-11-24",
-   "date": "2026-11-24",
-   "deadline": "2026-12-08",
-   "country": "PL",
-   "countries": [
-    "PL"
-   ],
-   "cpv": [
-    "45000000",
-    "71322000",
-    "45200000",
-    "45230000",
-    "45234000",
-    "45234100",
-    "45234113",
-    "45234116",
-    "45234115",
-    "45231400",
-    "45000000"
-   ]
-  },
-  {
-   "id": "c3e75e88-05e9-42e6-bd25-09a0b456c715",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Alemania – Servidores de impresora – Rahmenvertrag managed print services",
-   "summary": "Comprador: Landeshauptstadt Düsseldorf, Der Oberbürgermeister, Amt für Recht, Vergabe und Versicherungen, Zentrale Vergabestelle",
-   "url": "https://ted.europa.eu/es/notice/-/detail/815043-2026",
-   "published_at": "2026-11-24",
-   "date": "2026-11-24",
-   "deadline": "2026-12-08",
-   "country": "DE",
-   "countries": [
-    "DE"
-   ],
-   "cpv": [
-    "48824000",
-    "48824000"
-   ]
-  },
-  {
-   "id": "d4864551-8b15-4746-aa39-246cc4b0a14d",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Países Bajos – Servicios sanitarios y de limpieza – EA Schoonmaak AmsterdamUMC",
-   "summary": "Comprador: Stichting Amsterdam UMC",
-   "url": "https://ted.europa.eu/es/notice/-/detail/814853-2026",
-   "published_at": "2026-11-24",
-   "date": "2026-11-24",
-   "deadline": "2026-12-08",
-   "country": "NL",
-   "countries": [
-    "NL"
-   ],
-   "cpv": [
-    "90900000",
-    "90910000",
-    "90900000",
-    "90910000"
-   ]
-  },
-  {
-   "id": "e6d47602-5ff7-46eb-bf70-fc87d8495d4c",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Chequia – Obras en vías férreas interurbanas – Elektrizace trati Havlíčkův Brod – Ždírec nad Doubravou – Hlinsko",
-   "summary": "Comprador: Správa železnic, státní organizace",
-   "url": "https://ted.europa.eu/es/notice/-/detail/814679-2026",
-   "published_at": "2026-11-24",
-   "date": "2026-11-24",
-   "deadline": "2026-12-08",
-   "country": "CZ",
-   "countries": [
-    "CZ"
-   ],
-   "cpv": [
-    "45234110",
-    "45231400",
-    "71320000",
-    "71322000",
-    "71311230",
-    "71317210",
-    "71248000",
-    "71313400",
-    "45234110",
-    "45231400",
-    "71320000",
-    "71322000",
-    "71311230",
-    "71317210",
-    "71248000",
-    "71313400"
-   ]
-  },
-  {
-   "id": "3f213078-fe00-45a4-9095-fb5fdb39fbfa",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Alemania – Trabajos de construcción – Verwaltungsgebäude 09.26a - (LSRE) VE 04.5 Mittelspannungsschaltanlage",
-   "summary": "Comprador: Kreis Recklinghausen, Der Landrat",
-   "url": "https://ted.europa.eu/es/notice/-/detail/811048-2026",
-   "published_at": "2026-11-23",
-   "date": "2026-11-23",
-   "deadline": "2026-12-08",
-   "country": "DE",
-   "countries": [
-    "DE"
-   ],
-   "cpv": [
-    "45000000",
-    "45000000"
-   ]
-  },
-  {
-   "id": "4436445a-5390-4558-9c38-7afd797de5de",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Polonia – Productos farmacéuticos – Dostawa produktów farmaceutycznych - programy lekowe",
-   "summary": "Comprador: Międzyleski Szpital Specjalistyczny w Warszawie",
-   "url": "https://ted.europa.eu/es/notice/-/detail/811266-2026",
-   "published_at": "2026-11-23",
-   "date": "2026-11-23",
-   "deadline": "2026-12-08",
-   "country": "PL",
-   "countries": [
-    "PL"
-   ],
-   "cpv": [
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000",
-    "33600000"
-   ]
-  },
-  {
-   "id": "70fd7b82-7cef-485d-b896-6bd3af936c13",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Polonia – Dispositivos para hemodiálisis – SZP.281.95.2026 - Dostawa płynów do dializ wraz z akcesoriami dla Instytutu „CZMP”",
-   "summary": "Comprador: Instytut „Centrum Zdrowia Matki Polki”",
-   "url": "https://ted.europa.eu/es/notice/-/detail/811649-2026",
-   "published_at": "2026-11-23",
-   "date": "2026-11-23",
-   "deadline": "2026-12-08",
-   "country": "PL",
-   "countries": [
-    "PL"
-   ],
-   "cpv": [
-    "33181000",
-    "33692800",
-    "33181000",
-    "33181000",
-    "33181000",
-    "33181000",
-    "33181000",
-    "33181000",
-    "33181000",
-    "33181000",
-    "33181000",
-    "33181000",
-    "33181000",
-    "33181000",
-    "33181000",
-    "33181000",
-    "33181000",
-    "33181000",
-    "33181000",
-    "33181000",
-    "33692800",
-    "33692800",
-    "33692800",
-    "33692800",
-    "33692800",
-    "33692800",
-    "33692800",
-    "33692800",
-    "33692800",
-    "33692800",
-    "33692800",
-    "33692800",
-    "33692800",
-    "33692800",
-    "33692800",
-    "33692800",
-    "33692800",
-    "33692800"
-   ]
-  },
-  {
-   "id": "934adcb4-e59e-4b1c-9f69-4ed02efe8a3b",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Bélgica – Servicios de gestión de nóminas – Aanstelling sociaal secretariaat",
-   "summary": "Comprador: Intergemeentelijke opdrachthoudende Vereniging voor huisvuilverwerking Meetjesland (IVM)",
-   "url": "https://ted.europa.eu/es/notice/-/detail/811296-2026",
-   "published_at": "2026-11-23",
-   "date": "2026-11-23",
-   "deadline": "2026-12-08",
-   "country": "BE",
-   "countries": [
-    "BE"
-   ],
-   "cpv": [
-    "79211110",
-    "79211110"
-   ]
-  },
-  {
-   "id": "9f8f6ee4-0221-44c8-a3f4-368c2836ce1b",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Alemania – Servicios de arquitectura, construcción, ingeniería e inspección – B87 Ersatzneubau der Thälmannbrücke Frankfurt (Oder) - Objekt- und Tragwerksplanung Lph. 1-6",
-   "summary": "Comprador: Landesbetrieb Straßenwesen Brandenburg, DS Frankfurt (Oder)",
-   "url": "https://ted.europa.eu/es/notice/-/detail/811434-2026",
-   "published_at": "2026-11-23",
-   "date": "2026-11-23",
-   "deadline": "2026-12-08",
-   "country": "DE",
-   "countries": [
-    "DE"
-   ],
-   "cpv": [
-    "71000000",
-    "71000000"
-   ]
-  },
-  {
-   "id": "c003c4b8-5da0-4bfb-9ddd-c00f083b93bf",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Alemania – Mobiliario – Rahmenvertrag Möbel Zentralcampus Herne",
-   "summary": "Comprador: HSPV NRW Zentralverwaltung",
-   "url": "https://ted.europa.eu/es/notice/-/detail/811508-2026",
-   "published_at": "2026-11-23",
-   "date": "2026-11-23",
-   "deadline": "2026-12-08",
-   "country": "DE",
-   "countries": [
-    "DE"
-   ],
-   "cpv": [
-    "39100000",
-    "39111100",
-    "39121100",
-    "39121200",
-    "39122000",
-    "39130000",
-    "39136000",
-    "39160000",
-    "39100000",
-    "39100000",
-    "39111100",
-    "39121100",
-    "39121200",
-    "39122000",
-    "39130000",
-    "39136000",
-    "39160000",
-    "39111100",
-    "39121100",
-    "39121200",
-    "39122000",
-    "39130000",
-    "39136000",
-    "39160000"
-   ]
-  },
-  {
-   "id": "d09b6dbd-7d13-4f42-8080-43b62562eb93",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Polonia – Servicios de transporte complementarios y auxiliares; servicios de agencias de viajes – Provision of travel services related to returns by scheduled flights supported by Frontex",
-   "summary": "Comprador: European Border and Coast Guard Agency (FRONTEX)",
-   "url": "https://ted.europa.eu/es/notice/-/detail/811566-2026",
-   "published_at": "2026-11-23",
-   "date": "2026-11-23",
-   "deadline": "2026-12-08",
-   "country": "PL",
-   "countries": [
-    "PL"
-   ],
-   "cpv": [
-    "63000000",
-    "63000000"
-   ]
-  },
-  {
-   "id": "d57ac4b9-41ec-47e4-bfe0-34520f374776",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Países Bajos – Paquetes de software educativo – EA Instroomsysteem mbo en vavo studenten",
-   "summary": "Comprador: Landstede Groep",
-   "url": "https://ted.europa.eu/es/notice/-/detail/811208-2026",
-   "published_at": "2026-11-23",
-   "date": "2026-11-23",
-   "deadline": "2026-12-08",
-   "country": "NL",
-   "countries": [
-    "NL"
-   ],
-   "cpv": [
-    "48190000",
-    "48190000"
-   ]
-  },
-  {
-   "id": "d74306d3-5989-4103-acf0-6b16ba176a66",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Polonia – Instalación solar – Odnawialne źródła energii w Gminie Gorzyce, Godów, Kornowac i Radlin - powtórka",
-   "summary": "Comprador: Miasto Radlin",
-   "url": "https://ted.europa.eu/es/notice/-/detail/811646-2026",
-   "published_at": "2026-11-23",
-   "date": "2026-11-23",
-   "deadline": "2026-12-08",
-   "country": "PL",
-   "countries": [
-    "PL"
-   ],
-   "cpv": [
-    "09332000",
-    "09332000",
-    "09332000",
-    "09332000",
-    "09331200",
-    "31434000",
-    "44112410",
-    "45310000",
-    "45300000",
-    "45231000",
-    "45261215",
-    "45315700",
-    "71314100",
-    "71323100",
-    "71334000",
-    "71320000",
-    "09331200",
-    "31434000",
-    "44112410",
-    "45310000",
-    "45300000",
-    "45231000",
-    "45261215",
-    "45315700",
-    "71314100",
-    "71323100",
-    "71334000",
-    "71320000",
-    "09331200",
-    "31434000",
-    "44112410",
-    "45310000",
-    "45300000",
-    "45231000",
-    "45261215",
-    "45315700",
-    "71314100",
-    "71323100",
-    "71334000",
-    "42511110",
-    "71320000"
-   ]
-  },
-  {
-   "id": "e4b9f001-0a4b-4142-ac27-c170d903c65d",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Polonia – Fluidos intravenosos – Dostawa produktów do leczenia żywieniowego",
-   "summary": "Comprador: Wojewódzki Szpital Specjalistyczny im. Stefana Kardynała Wyszyńskiego Samodzielny Publiczny Zakład Opieki Zdrowotnej",
-   "url": "https://ted.europa.eu/es/notice/-/detail/811103-2026",
-   "published_at": "2026-11-23",
-   "date": "2026-11-23",
-   "deadline": "2026-12-08",
-   "country": "PL",
-   "countries": [
-    "PL"
-   ],
-   "cpv": [
-    "33692510",
-    "33692510",
-    "33692510",
-    "33692510",
-    "33692510",
-    "33692510",
-    "33190000",
-    "33692200",
-    "33692200",
-    "33692200",
-    "33692200",
-    "33692510",
-    "33692510",
-    "33692510",
-    "33692200",
-    "33692510",
-    "33692510",
-    "33190000",
-    "33190000",
-    "33190000",
-    "33190000",
-    "33681000",
-    "33190000"
-   ]
-  },
-  {
-   "id": "ef1441d1-1b63-4e99-8cb8-b7d64decf92c",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Eslovenia – Servicios de seguros – ZAV 2026: \"Zavarovanje premoženja in premoženjskih interesov za Skupino SiDG\"",
-   "summary": "Comprador: Slovenski državni gozdovi, d. o. o.",
-   "url": "https://ted.europa.eu/es/notice/-/detail/811084-2026",
-   "published_at": "2026-11-23",
-   "date": "2026-11-23",
-   "deadline": "2026-12-08",
-   "country": "SI",
-   "countries": [
-    "SI"
-   ],
-   "cpv": [
-    "66510000",
-    "66510000"
-   ]
-  },
-  {
-   "id": "1b33e367-26e2-418a-8c00-f82bad5fd181",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Alemania – Servicios de suministro de comidas para escuelas – ZKJF gGmbH - Vergabe von Cateringleistungen zur Mittagsversorgung der Schülerbetreuung an der Waldschule (Maintal) des Main-Kinzig-Kreises",
-   "summary": "Comprador: Zentrum für Kinder-, Jugend- und Familienhilfe Main-Kinzig gGmbH",
-   "url": "https://ted.europa.eu/es/notice/-/detail/807310-2026",
-   "published_at": "2026-11-20",
-   "date": "2026-11-20",
-   "deadline": "2026-12-08",
-   "country": "DE",
-   "countries": [
-    "DE"
-   ],
-   "cpv": [
-    "55524000",
-    "55523100",
-    "15894210",
-    "55524000",
-    "55523100",
-    "15894210"
-   ]
-  },
-  {
-   "id": "310b25e0-880c-460d-adf4-e63eae882dab",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Chequia – Chalecos antibalas – Rámcová dohoda - vesta balistická speciální NIJ IIIA/IV (ZJ)",
-   "summary": "Comprador: Ministerstvo vnitra",
-   "url": "https://ted.europa.eu/es/notice/-/detail/807717-2026",
-   "published_at": "2026-11-20",
-   "date": "2026-11-20",
-   "deadline": "2026-12-08",
-   "country": "CZ",
-   "countries": [
-    "CZ"
-   ],
-   "cpv": [
-    "35815100",
-    "35815100"
-   ]
-  },
-  {
-   "id": "8260497b-d53e-4887-b783-729734452aa6",
-   "source": "ted",
-   "source_name": "Tenders Electronic Daily (TED, UE)",
-   "kind": "tender",
-   "funder_type": "public",
-   "title": "Polonia – Trabajos de construcción – Przebudowa z nadbudową budynku nr 36 wraz ze zmianą przeznaczenia na budynek wielofunkcyjny – zadanie nr 91819",
-   "summary": "Comprador: 5 Wojskowy Szpital Kliniczny z Poliklinika SP ZOZ w Krakowie",
-   "url": "https://ted.europa.eu/es/notice/-/detail/807448-2026",
-   "published_at": "2026-11-20",
-   "date": "2026-11-20",
-   "deadline": "2026-12-08",
-   "country": "PL",
-   "countries": [
-    "PL"
-   ],
-   "cpv": [
-    "45000000",
-    "45000000"
    ]
   },
   {
@@ -84357,6 +84516,22 @@
    "title": "Capacity Building in Higher Education: Neighbourhood East",
    "summary": "Objective: CBHE funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the SDGs and the Paris Agreement, it supports quality, modernisation, and responsiveness in higher education to address socio-economic recovery and global challenges. The action is expected to contribute to the 5 call priorities pre-defined by the European Commission. It also contributes to broader EU external policy ",
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-CBHE-REGION-2",
+   "published_at": "2026-12-03",
+   "date": "2026-12-03",
+   "deadline": "2027-02-09",
+   "country": null,
+   "countries": [],
+   "cpv": []
+  },
+  {
+   "id": "251c1c92-7f73-46cf-b7b4-6d644f8c45f7",
+   "source": "ft_portal",
+   "source_name": "EU Funding & Tenders Portal (Comisión Europea)",
+   "kind": "grant",
+   "funder_type": "public",
+   "title": "Capacity Building in Higher Education: South Mediterranean",
+   "summary": "Objective: CBHE funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the SDGs and the Paris Agreement, it supports quality, modernisation, and responsiveness in higher education to address socio-economic recovery and global challenges. The action is expected to contribute to the 5 call priorities pre-defined by the European Commission. It also contributes to broader EU external policy ",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-CBHE-REGION-3",
    "published_at": "2026-12-03",
    "date": "2026-12-03",
    "deadline": "2027-02-09",
@@ -89253,22 +89428,6 @@
    "title": "Erasmus+ Virtual Exchanges in Sub-Saharan Africa",
    "summary": "Objective: Many young people - especially in third countries - have no access to physical mobility. Hence the goal to expand the reach and scope of Erasmus+, based on the experience of the 2018-2020 virtual exchange pilot project. Erasmus+ Virtual Exchanges are online people-to-people activities that promote intercultural dialogue and soft skills development between individuals from third countries not associated to the Programme, EU Member States or third countries associated to the Programme. ",
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-VIRT-EXCH-SSA",
-   "published_at": "2027-07-06",
-   "date": "2027-07-06",
-   "deadline": "2027-10-12",
-   "country": null,
-   "countries": [],
-   "cpv": []
-  },
-  {
-   "id": "9b52af01-7573-436a-809b-a2f0d9861ff1",
-   "source": "ft_portal",
-   "source_name": "EU Funding & Tenders Portal (Comisión Europea)",
-   "kind": "grant",
-   "funder_type": "public",
-   "title": "Erasmus+ Virtual Exchanges in Western Balkans",
-   "summary": "Objective: Many young people - especially in third countries - have no access to physical mobility. Hence the goal to expand the reach and scope of Erasmus+, based on the experience of the 2018-2020 virtual exchange pilot project. Erasmus+ Virtual Exchanges are online people-to-people activities that promote intercultural dialogue and soft skills development between individuals from third countries not associated to the Programme, EU Member States or third countries associated to the Programme. ",
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-VIRT-EXCH-WB",
    "published_at": "2027-07-06",
    "date": "2027-07-06",
    "deadline": "2027-10-12",
